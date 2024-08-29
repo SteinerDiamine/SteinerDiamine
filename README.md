@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Java and DSA**
 
-- 🌱 I’m currently learning **Java with DSA and DevOps**
+- 🌱 I’m currently learning **Java with DSA and Along with Javascript**
 
 - 👯 I’m looking to collaborate on **Frontend based projects**
 
-- 🤝 I’m looking for help with **Learning DevOps**
+- 🤝 I’m looking for help with **Learning Open source contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SteinerDiamine](https://github.com/SteinerDiamine)
 
-- 💬 Ask me about **JAVA and DSA**
+- 💬 Ask me about **JAVA and DSA **
 
 - 📫 How to reach me **shubhamsharma68663@gmail.com**
 

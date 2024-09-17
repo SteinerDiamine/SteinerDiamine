@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shubhamsharma68663@gmail.com**
 
-- ⚡ Fun fact: I like reading Books; currently, I am reading "Algorithms" by Robert and Kevin, and "The Complete Reference Java" by Herbert Schildt.
+- ⚡ Fun fact: I like reading Books
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
